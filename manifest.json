@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Javascriot webscrapper  extension",
+  "description": "Simple webscrapping extesion",
+  "version": "1.0",
+  "author": "Thiago Kasper de Souza",
+  "permissions": ["activeTab", "scripting"],
+   "action": {
+      "default_popup": "index.html"
+   }
+}
